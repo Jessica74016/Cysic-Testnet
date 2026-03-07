@@ -1,0 +1,1 @@
+Node management tool for Cysic ZK proof verification testnet with automated setup, verifier/prover operation, real-time status monitoring, reward tracking, and configurable parallel proof processing
